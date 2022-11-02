@@ -1,0 +1,20 @@
+crop,temp,humidity,ph
+Sugarcane, 24.0, 87.5, 5.5
+Oil-Seeds, 22.5, 52.5, 6.2
+Tea, 25.0, 225.0, 6.0
+Coffee, 21.5, 79.5, 6.2
+Rubber, 26.0, 212.5, 7.75
+Cotton,25.5,62.5,7
+Potato, 24.5, 160.0, 5.6
+Pulses,23.5,45,5
+Paprika,18,150,7.75
+Carrots,23,85,5
+Beets,23,63,6.5
+B.Pepper,25,160,6
+Brinjal,17,80,6.1
+Cabbage,18,50,6.7
+Rice,21,70,7
+Wheat,16,75,7
+Jute,27.5,80,5.3
+Cotton,25.5,62.5,7
+Maize,20.5,81.87,7
